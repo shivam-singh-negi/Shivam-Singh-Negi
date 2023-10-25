@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer and Devloper from India</h3>
 
 
-- 🌱 I’m currently learning adn building projects with **Django, MERN STACK**
+- 🌱 I Develop using MERN Stack And Django**
 
 - 💬 Ask me about **Full Stack Web Development, Machine Learning, Blockchain, Data Science**
 
