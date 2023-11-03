@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh Negi</h1>
-<h3 align="center"> Software Engineer and Devloper from India</h3>
+<h3 align="center"> Software/AI/ML Engineer and Devloper from India</h3>
 
 
-- 🌱 I Develop using MERN Stack And Django**
+- 🌱 I Develop using MERN Stack And Django **
 
 - 💬 Ask me about **Full Stack Web Development, Machine Learning, Blockchain, Data Science**
 
