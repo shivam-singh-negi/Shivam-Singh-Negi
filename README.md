@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **Shivamsingh.comp1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aqTqKXLXRp2L1KaNumQpW10ba_e1aOMZ/view?usp=sharing](https://drive.google.com/file/d/1aqTqKXLXRp2L1KaNumQpW10ba_e1aOMZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
