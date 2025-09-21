@@ -2,13 +2,12 @@
 <h3 align="center"> Software/AI/ML Engineer and Devloper from India</h3>
 
 
-- 🌱 I Develop using MERN Stack And Django **
+- 🌱 I Develop With Logic And Passion. **
 
 - 💬 Ask me about **Full Stack Web Development, Machine Learning, Blockchain, Data Science**
 
 - 📫 How to reach me **Shivamsingh.comp1999@gmail.com**
-- 📫 Checkout my **[Resume](https://drive.google.com/file/d/1CaVaggKxO7W4INTsHC5enbmSd4dUS_eI/view?usp=drive_link
-)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
